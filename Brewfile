@@ -8,6 +8,7 @@ cask google-japanese-ime
 cask keybase
 cask rambox
 cask slack
+cask visual-studio-code
 
 tap homebrew/core
 brew sqlite
