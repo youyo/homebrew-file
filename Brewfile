@@ -58,6 +58,9 @@ brew zsh-completions
 tap rcmdnk/file
 brew brew-file
 
+tap youyo/awslogin
+brew awslogin
+
 # App Store applications
 appstore 443987910 1Password (6.8.2)
 appstore 682658836 GarageBand (10.2.0)
