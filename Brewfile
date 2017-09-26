@@ -7,6 +7,7 @@ cask google-chrome
 cask google-japanese-ime
 cask keybase
 cask rambox
+cask skype
 cask slack
 cask visual-studio-code
 
