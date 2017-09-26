@@ -3,6 +3,7 @@
 
 tap caskroom/cask
 cask dropbox
+cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask keybase
