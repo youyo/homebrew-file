@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask docker
 cask dropbox
 cask firefox
 cask google-chrome
@@ -18,6 +19,7 @@ brew awscli
 brew curl
 brew dep
 brew direnv
+brew docker
 brew flac
 brew gdbm
 brew gettext
@@ -70,8 +72,14 @@ brew zsh-completions
 tap rcmdnk/file
 brew brew-file
 
+tap tcnksm/ghr
+brew ghr
+
 tap youyo/awslogin
 brew awslogin
+
+tap youyo/hidy
+brew hidy
 
 # App Store applications
 appstore 443987910 1Password (6.8.2)
