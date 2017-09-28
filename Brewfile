@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask blisk
 cask docker
 cask dropbox
 cask firefox
