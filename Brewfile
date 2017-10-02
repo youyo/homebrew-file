@@ -49,6 +49,7 @@ brew libvorbis
 brew libyaml
 brew mad
 brew mas
+brew mpg123
 brew nettle
 brew npth
 brew oniguruma
