@@ -7,6 +7,7 @@ cask docker
 cask dropbox
 cask firefox
 cask google-chrome
+cask google-cloud-sdk
 cask google-japanese-ime
 cask keybase
 cask rambox
@@ -22,6 +23,7 @@ brew dep
 brew direnv
 brew docker
 brew flac
+brew fping
 brew gdbm
 brew gettext
 brew git
@@ -36,12 +38,14 @@ brew hugo
 brew jq
 brew lame
 brew libassuan
+brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libksba
 brew libogg
 brew libpng
+brew libssh2
 brew libtasn1
 brew libunistring
 brew libusb
@@ -61,6 +65,7 @@ brew peco
 brew perl
 brew pinentry
 brew pkg-config
+brew postgresql
 brew python
 brew readline
 brew ruby
@@ -68,6 +73,7 @@ brew sox
 brew sqlite
 brew vim
 brew wget
+brew zabbix
 brew zsh
 brew zsh-completions
 
