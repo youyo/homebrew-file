@@ -18,6 +18,7 @@ cask visual-studio-code
 tap homebrew/core
 brew adns
 brew awscli
+brew boost
 brew curl
 brew dep
 brew direnv
@@ -32,6 +33,7 @@ brew gnupg
 brew gnupg@1.4
 brew gnutls
 brew go
+brew highlight
 brew htop-osx
 brew hub
 brew hugo
@@ -51,6 +53,7 @@ brew libunistring
 brew libusb
 brew libvorbis
 brew libyaml
+brew lua
 brew mad
 brew mas
 brew mpg123
