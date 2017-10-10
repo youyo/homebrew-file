@@ -3,6 +3,7 @@
 
 tap caskroom/cask
 cask blisk
+cask clipy
 cask docker
 cask dropbox
 cask firefox
