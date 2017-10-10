@@ -10,6 +10,7 @@ cask firefox
 cask google-chrome
 cask google-cloud-sdk
 cask google-japanese-ime
+cask gyazo
 cask keybase
 cask rambox
 cask skype
