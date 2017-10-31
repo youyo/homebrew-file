@@ -36,7 +36,6 @@ brew gnupg@1.4
 brew gnutls
 brew go
 brew highlight
-brew htop-osx
 brew hub
 brew hugo
 brew jq
@@ -60,6 +59,7 @@ brew mad
 brew mas
 brew mpg123
 brew nettle
+brew nkf
 brew npth
 brew oniguruma
 brew openssl
@@ -93,6 +93,9 @@ brew awslogin
 
 tap youyo/hidy
 brew hidy
+
+# Other Homebrew packages
+brew htop-osx
 
 # App Store applications
 appstore 443987910 1Password (6.8.2)
