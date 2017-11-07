@@ -82,6 +82,9 @@ brew zabbix
 brew zsh
 brew zsh-completions
 
+tap kubeless/tap
+brew kubeless
+
 tap rcmdnk/file
 brew brew-file
 
