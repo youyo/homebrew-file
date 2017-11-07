@@ -15,6 +15,9 @@ cask keybase
 cask rambox
 cask skype
 cask slack
+cask vagrant
+cask virtualbox-extension-pack
+cask virtualbox
 cask visual-studio-code
 
 tap homebrew/core
@@ -76,6 +79,7 @@ brew readline
 brew ruby
 brew sox
 brew sqlite
+brew vagrant-completion
 brew vim
 brew wget
 brew zabbix
