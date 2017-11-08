@@ -38,6 +38,7 @@ brew gnupg
 brew gnupg@1.4
 brew gnutls
 brew go
+brew h2o
 brew highlight
 brew hub
 brew hugo
