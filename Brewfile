@@ -14,6 +14,7 @@ cask google-japanese-ime
 cask gyazo
 cask keybase
 cask rambox
+cask sequel-pro
 cask skype
 cask slack
 cask vagrant
