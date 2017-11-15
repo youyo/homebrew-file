@@ -40,9 +40,11 @@ brew gnupg@1.4
 brew gnutls
 brew go
 brew h2o
+brew heroku
 brew highlight
 brew hub
 brew hugo
+brew icu4c
 brew jq
 brew lame
 brew libassuan
@@ -65,6 +67,7 @@ brew mas
 brew mpg123
 brew nettle
 brew nkf
+brew node
 brew npth
 brew oniguruma
 brew openssl
