@@ -47,6 +47,7 @@ brew hub
 brew hugo
 brew icu4c
 brew jq
+brew kubeless
 brew lame
 brew libassuan
 brew libevent
@@ -66,6 +67,7 @@ brew lua
 brew mad
 brew mas
 brew mpg123
+brew mysql
 brew nettle
 brew nkf
 brew node
@@ -82,6 +84,7 @@ brew pkg-config
 brew postgresql
 brew python
 brew readline
+brew redis
 brew ruby
 brew sox
 brew sqlite
@@ -93,7 +96,6 @@ brew zsh
 brew zsh-completions
 
 tap kubeless/tap
-brew kubeless
 
 tap rcmdnk/file
 brew brew-file
