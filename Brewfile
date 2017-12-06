@@ -24,6 +24,7 @@ cask visual-studio-code
 
 tap homebrew/core
 brew adns
+brew amazon-ecs-cli
 brew awscli
 brew boost
 brew curl
