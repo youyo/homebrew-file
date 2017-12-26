@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap Songmu/tap
+brew goxz
+
 tap caskroom/cask
 cask blisk
 cask clipy
