@@ -87,6 +87,7 @@ brew perl
 brew pinentry
 brew pkg-config
 brew postgresql
+brew protobuf
 brew python
 brew readline
 brew redis
