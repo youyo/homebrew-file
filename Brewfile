@@ -28,6 +28,7 @@ cask google-japanese-ime
 tap homebrew/core
 brew adns
 brew amazon-ecs-cli
+brew ansible
 brew awscli
 brew boost
 brew curl
