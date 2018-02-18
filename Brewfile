@@ -19,6 +19,7 @@ cask docker
 cask vagrant
 cask clipy
 cask virtualbox-extension-pack
+cask discord
 cask sequel-pro
 cask cyberduck
 cask firefox
