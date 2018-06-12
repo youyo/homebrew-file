@@ -5,26 +5,9 @@ tap Songmu/tap
 brew goxz
 
 tap caskroom/cask
-cask slack
-cask gyazo
-cask virtualbox
-cask visual-studio-code
-cask rambox
-cask skype
-cask google-cloud-sdk
-cask blisk
-cask keybase
-cask dropbox
-cask docker
-cask vagrant
-cask clipy
-cask virtualbox-extension-pack
-cask discord
-cask sequel-pro
-cask cyberduck
-cask firefox
-cask google-chrome
-cask google-japanese-ime
+
+tap git-chglog/git-chglog
+brew git-chglog
 
 tap homebrew/core
 brew adns
@@ -91,12 +74,14 @@ brew pkg-config
 brew postgresql
 brew protobuf
 brew python
+brew python@2
 brew readline
 brew redis
 brew ruby
 brew sox
 brew sqlite
 brew telnet
+brew terraform
 brew tree
 brew vagrant-completion
 brew vim
@@ -121,6 +106,31 @@ brew hidy
 
 # Other Homebrew packages
 brew htop-osx
+brew python2
+
+# Cask applications
+cask astro
+cask blisk
+cask clipy
+cask cyberduck
+cask discord
+cask docker
+cask dropbox
+cask firefox
+cask google-chrome
+cask google-cloud-sdk
+cask google-japanese-ime
+cask gyazo
+cask keybase
+cask rambox
+cask sequel-pro
+cask skype
+cask slack
+cask steam
+cask vagrant
+cask virtualbox
+cask virtualbox-extension-pack
+cask visual-studio-code
 
 # App Store applications
 appstore 443987910 1Password (6.8.2)
