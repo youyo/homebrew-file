@@ -1,14 +1,6 @@
 
 # tap repositories and their packages
 
-tap Songmu/tap
-brew goxz
-
-tap caskroom/cask
-
-tap git-chglog/git-chglog
-brew git-chglog
-
 tap homebrew/core
 brew adns
 brew amazon-ecs-cli
@@ -19,6 +11,7 @@ brew curl
 brew dep
 brew direnv
 brew docker
+brew exercism
 brew flac
 brew fping
 brew gdbm
@@ -84,13 +77,20 @@ brew telnet
 brew terraform
 brew tree
 brew vagrant-completion
+brew vault
 brew vim
 brew wget
 brew zabbix
 brew zsh
 brew zsh-completions
 
-tap kubeless/tap
+tap Songmu/tap
+brew goxz
+
+tap caskroom/cask
+
+tap git-chglog/git-chglog
+brew git-chglog
 
 tap rcmdnk/file
 brew brew-file
@@ -108,7 +108,7 @@ brew hidy
 brew htop-osx
 brew python2
 
-# Cask applications
+# Other Cask applications
 cask astro
 cask blisk
 cask clipy
