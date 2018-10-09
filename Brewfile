@@ -127,6 +127,7 @@ cask sequel-pro
 cask skype
 cask slack
 cask steam
+cask thunderbird
 cask vagrant
 cask virtualbox
 cask virtualbox-extension-pack
