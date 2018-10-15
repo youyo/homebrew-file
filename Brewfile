@@ -122,6 +122,7 @@ cask google-cloud-sdk
 cask google-japanese-ime
 cask gyazo
 cask keybase
+cask marp
 cask rambox
 cask sequel-pro
 cask skype
