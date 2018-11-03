@@ -115,6 +115,7 @@ cask clipy
 cask cyberduck
 cask discord
 cask docker
+cask drawio
 cask dropbox
 cask firefox
 cask google-chrome
