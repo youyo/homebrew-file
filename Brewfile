@@ -5,6 +5,7 @@ tap homebrew/core
 brew adns
 brew amazon-ecs-cli
 brew ansible
+brew ansible-lint
 brew awscli
 brew boost
 brew curl
@@ -23,7 +24,6 @@ brew gnupg@1.4
 brew gnutls
 brew go
 brew h2o
-brew heroku
 brew highlight
 brew hub
 brew hugo
@@ -80,6 +80,7 @@ brew vagrant-completion
 brew vault
 brew vim
 brew wget
+brew xz
 brew zabbix
 brew zsh
 brew zsh-completions
@@ -105,6 +106,7 @@ tap youyo/hidy
 brew hidy
 
 # Other Homebrew packages
+brew heroku
 brew htop-osx
 brew python2
 
